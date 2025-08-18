@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gr6lnIpPjTf3qMm4leX2o63hApH+fEOxf3kfh8YVxcE=",
+  "Source": "MyRestfulApi",
+  "BasePath": "_content/MyRestfulApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

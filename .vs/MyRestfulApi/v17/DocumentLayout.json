@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\myrestfulapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\myrestfulapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|e:\\ostad kouckaki\\test project\\myrestfulapi\\myrestfulapi\\migrations\\20250812132836_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD64D4-EA33-4729-9195-34762659BF63}|MyRestfulApi\\MyRestfulApi.csproj|solutionrelative:myrestfulapi\\migrations\\20250812132836_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250812132836_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Migrations\\20250812132836_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Migrations\\20250812132836_InitialCreate.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Migrations\\20250812132836_InitialCreate.cs",
+              "RelativeToolTip": "MyRestfulApi\\Migrations\\20250812132836_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:28:36.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Program.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Program.cs",
+              "RelativeToolTip": "MyRestfulApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:10:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyRestfulApi\\appsettings.json",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\appsettings.json",
+              "RelativeToolTip": "MyRestfulApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:03:28.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Models\\Product.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\Product.cs",
+              "RelativeToolTip": "MyRestfulApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:57:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Models\\DTO\\LoginDto.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "MyRestfulApi\\Models\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:36:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Models\\DTO\\RegisterDto.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Models\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "MyRestfulApi\\Models\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:36:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyRestfulApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEEAAAAA8P/sFBXhvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:34:14.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyRestfulApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:37:44.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Data\\DbContext.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Data\\DbContext.cs",
+              "RelativeToolTip": "MyRestfulApi\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:01:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyRestfulApi\\Data\\ApplicationUser.cs",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "MyRestfulApi\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:59:09.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyRestfulApi.csproj",
+              "DocumentMoniker": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\MyRestfulApi.csproj",
+              "RelativeDocumentMoniker": "MyRestfulApi\\MyRestfulApi.csproj",
+              "ToolTip": "E:\\Ostad kouckaki\\test project\\MyRestfulApi\\MyRestfulApi\\MyRestfulApi.csproj",
+              "RelativeToolTip": "MyRestfulApi\\MyRestfulApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T12:58:25.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
