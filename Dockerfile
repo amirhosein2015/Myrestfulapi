@@ -15,4 +15,4 @@ WORKDIR /app
 COPY --from=build /app/publish .
 
 
-ENTRYPOINT ["dotnet", "Myrestfulapi.dll"]
+ENTRYPOINT ["dotnet", "MyRestfulApi.dll"]
